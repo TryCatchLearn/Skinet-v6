@@ -11,14 +11,14 @@
     "ShortName": "UPS2",
     "Description": "Get it within 5 days",
     "DeliveryTime": "2-5 Days",
-    "Price": 5
+    "Price": 5.99
   },
   {
     "Id": 3,
     "ShortName": "UPS3",
     "Description": "Slower but cheap",
     "DeliveryTime": "5-10 Days",
-    "Price": 2
+    "Price": 2.55
   },
   {
     "Id": 4,
